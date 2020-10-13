@@ -22,3 +22,4 @@ python3 manage.py migrate
 npm i 
 
 npm start
+!!!!!
